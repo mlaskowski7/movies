@@ -7,6 +7,8 @@ Movies data is taken from themoviedb.org, shout out.
 ## Screenshots
 ### Home View
 ![image](https://github.com/mlaskowski7/movies/assets/144243838/a439d546-9481-42ac-8118-1c8d97370a99)
+![image](https://github.com/mlaskowski7/movies/assets/144243838/f1943ba2-1de3-4f81-8d10-1aa69a088d85)
+
 ### Trailer View
 ![image](https://github.com/mlaskowski7/movies/assets/144243838/b4c6d8d1-1e3b-49d3-8cd2-60a6917aadf0)
 ### Reviews View
